@@ -23,8 +23,8 @@ const About = () => {
     { name: 'JavaScript', level: 85 },
     { name: 'CSS/Tailwind CSS', level: 80 },
     { name: 'Redux', level: 75 },
-    { name: 'Node.js', level: 70 },
-    { name: 'TypeScript', level: 65 },
+    { name: 'Node.js', level: 65 },
+    { name: 'Express', level: 65 },
   ];
 
   const experiences = [

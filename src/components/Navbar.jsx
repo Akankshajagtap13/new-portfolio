@@ -47,7 +47,7 @@ const Navbar = () => {
             transition={{ duration: 0.5 }}
             className="flex-shrink-0"
           >
-            <a href="#home" className="text-xl font-bold bg-gradient-to-r from-teal-400 to-cyan-500 bg-clip-text text-transparent">
+            <a href="home" className="text-xl font-bold bg-gradient-to-r from-teal-400 to-cyan-500 bg-clip-text text-transparent">
               Akanksha Jagtap
             </a>
           </motion.div>

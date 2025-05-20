@@ -46,7 +46,7 @@ const Skills = () => {
     { name: "Tailwind CSS", icon: <Palette size={24} /> },
     { name: "Material UI", icon: <BookOpen size={24} /> },
     { name: "Ant Design", icon: <PanelTop size={24} /> },
-    { name: "Varcal", icon: <FileType2 size={24} /> },
+    { name: "Vercel", icon: <FileType2 size={24} /> },
   ];
 
   const toolsSkills = [

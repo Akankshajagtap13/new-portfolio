@@ -82,7 +82,7 @@ const Hero = () => {
             className="mb-4"
           >
             <p className="text-lg md:text-xl text-cyan-400 font-medium">
-              Hello, I'm
+            
             </p>
           </motion.div>
           

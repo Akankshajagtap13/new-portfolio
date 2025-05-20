@@ -8,6 +8,29 @@ const Projects = () => {
 
   const projects = [
     {
+      title: "Unity Ortho and Eye Hospital",
+      description: "Developed a responsive and informative healthcare website for a multi-speciality hospital specializing in orthopedic and eye care. Included sections for doctor profiles, specialties, testimonials, and a contact map. Focused on accessibility, clean UI, and mobile-first design.",
+      technologies: ["React.js", "Tailwind CSS", "Framer Motion", "Map Integration"],
+      category: "healthcare",
+      link: "https://unityorthoandeyehospital.com/" 
+    },
+    {
+      title: "Prahlad Flours",
+      description: "Built a brand-focused website for a flour production company, highlighting their product range, certifications, and commitment to quality. Ensured fast performance, SEO optimization, and an intuitive layout for both desktop and mobile users.",
+      technologies: ["React.js", "CSS", "JavaScript", "Responsive Design"],
+      category: "business",
+      link: "https://pralhadflours.com/" 
+    },
+     {
+      title: "Arthagam Pathsanstha Website",
+      description: "A financial service platform that provides various banking and loan-related solutions with five types of financial calculators: Pigmi, Gold EMI, FD, RD, and Loan EMI calculators, helping users make informed financial decisions.",
+      technologies: ["React.js", "Redux", "CSS", "API Integration"],
+      category: "finance",
+      link: "http://website.arthagam.com/" 
+
+    },
+    
+    {
       title: "Artnstock",
       description: "A comprehensive platform for artists to showcase and sell their work in both digital and physical formats, such as apparel, accessories, and canvas prints. Implemented asynchronous workflows with async/await and Promise all to optimize image uploads, product customization, and file handling.",
       technologies: ["React.js", "Redux", "Tailwind CSS", "API Integration"],
@@ -21,28 +44,7 @@ const Projects = () => {
       category: "web",
       link: "https://meghindustry.com"
     },
-    {
-      title: "Arthagam Pathsanstha Website",
-      description: "A financial service platform that provides various banking and loan-related solutions with five types of financial calculators: Pigmi, Gold EMI, FD, RD, and Loan EMI calculators, helping users make informed financial decisions.",
-      technologies: ["React.js", "Redux", "CSS", "API Integration"],
-      category: "finance",
-      link: "http://website.arthagam.com/" 
-
-    },
-    {
-      title: "Unity Ortho and Eye Hospital",
-      description: "Developed a responsive and informative healthcare website for a multi-speciality hospital specializing in orthopedic and eye care. Included sections for doctor profiles, specialties, testimonials, and a contact map. Focused on accessibility, clean UI, and mobile-first design.",
-      technologies: ["React.js", "Tailwind CSS", "Framer Motion", "Map Integration"],
-      category: "healthcare",
-      link: "https://unityorthoandeyehospital.com/" 
-    },
-    {
-      title: "Prahlad Flours",
-      description: "Built a brand-focused website for a flour production company, highlighting their product range, certifications, and commitment to quality. Ensured fast performance, SEO optimization, and an intuitive layout for both desktop and mobile users.",
-      technologies: ["React.js", "CSS", "JavaScript", "Responsive Design"],
-      category: "business",
-      link: "https://pralhadflours.com/" 
-    }
+   
     
   ];
 
